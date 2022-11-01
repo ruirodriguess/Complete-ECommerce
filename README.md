@@ -15,5 +15,7 @@ Some techniques include:
 - Model binding and validation
 - Routing
 
+Notes:
+Application not completed yet.
 
 using @VisualStudio2022
